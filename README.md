@@ -2,8 +2,8 @@
 大学一年生のころ、課題で作った初めてのプログラムです。  
 STEINS;GATEというゲームに登場するダイバージェンスメーターを作画しています。  
 
-- 作画の様子
-[YouTube]()
+- 作画の様子(動画は4倍速です)  
+[YouTube](https://youtu.be/aDbkuz3VbD0)
 
 - 完成図  
 ![完成図](DivergenceMeter.png)
